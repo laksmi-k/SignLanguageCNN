@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+asl_alphabet/
+app_backup*.py
+train_model_backup.py
+sign_language_cnn_backup.keras
+sign_language_cnn_v2.keras
+class_names_backup.json
+class_names_v2.json
+my_photo_64x64.png
+training_results.json
+.DS_Store
